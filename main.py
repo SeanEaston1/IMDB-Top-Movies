@@ -36,4 +36,4 @@ data['Movie Names'] = movies
 data['Ratings'] = ratings
 data.head()
 
-data.to_csv('IMDB Top Movies csv', index=False)
+data.to_csv('IMDB Top Movies.csv', index=False)
