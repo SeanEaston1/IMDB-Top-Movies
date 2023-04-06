@@ -5,8 +5,10 @@ This Python project demonstrates how to scrape data from the IMDB website using 
 ## Prerequisites
 This project requires the following libraries to be installed:
 - Beautiful Soup
-- Requests
-- You can install them by running the following command: 'pip install beautifulsoup4 requests'
+- Requests 
+- Pandas
+
+You can install them by running the following command: *pip install beautifulsoup4 requests pandas*
 
 ## Running the code
 To run the project, simply run the 'main.py' file. The script will scrape the data and store it in a file named 'IMDB Top Movies.csv'.
